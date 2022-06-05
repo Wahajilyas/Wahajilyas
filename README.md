@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Wahajilyas
-- 👀 I’m interested in Android App Development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @wahajilyas
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on (This case is closed for now)
 - 📫 How to reach me (insta/@wahaji_ilyas) (tt/@wahajilyas2000)
 
 <!---
